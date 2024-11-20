@@ -1,2 +1,2 @@
 # Dates
-An application handle dates functions
+An application that handle dates functions
